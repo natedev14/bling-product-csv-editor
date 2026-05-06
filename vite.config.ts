@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 import path from 'node:path';
 
 export default defineConfig({
-  base: '/gissary-stock-editor/',
+  base: '/bling-product-csv-editor/',
   plugins: [react()],
   resolve: {
     alias: {
